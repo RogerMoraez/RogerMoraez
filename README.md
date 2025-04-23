@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Roger!  
-<div> 
-   <h4>📈 GitHub Stats </h4>
+<div>
   <a href="https://github.com/RogerMoraez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerMoraez&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerMoraez&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerMoraez&layout=compact&langs_count=7&theme=radical"/>
 </div> 
     
 <div style="display: inline_block"><br>
